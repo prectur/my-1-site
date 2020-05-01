@@ -1,0 +1,46 @@
+@media screen and (max-width: 575px) {
+    h1 {
+        font-size: 48px;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    h1 {
+        font-size: 72px;
+    }
+}
+
+.jumbotron{
+	background: #E9ECEF;
+	margin-top: 50px;
+}
+
+h1{
+
+}
+
+b{
+	color:black;
+}
+
+.btn{
+	border-radius: 4px;
+}
+
+.navbar{
+	background-color: #343A40;
+}
+
+.card{
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	margin-bottom: 32px;
+}
+.bluetext{
+	color:#007BFF;
+}
+
+footer{
+	margin-top: 71px;
+	color: #6C757D;
+	background-color: #F5F5F5;
+}
